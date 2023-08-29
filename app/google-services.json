@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483679954585",
+    "project_id": "e-keeda",
+    "storage_bucket": "e-keeda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483679954585:android:2ae9eb06ac2165957dfa08",
+        "android_client_info": {
+          "package_name": "com.planetapps.greenhut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483679954585-e9bp78sgceovginshc1buql6h6dtuh0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEcdSqdHgAM7gY_SdZuH_2__MQYLy2-d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483679954585-b716qc95t9cu4ktqpqd98q29iocnob92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
